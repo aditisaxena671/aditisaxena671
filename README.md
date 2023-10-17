@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aditisaxena671)](https://git.io/streak-stats)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisaxena671&show_icons=true&locale=en&layout=compact" alt="aditisaxena671" /></p>
+
