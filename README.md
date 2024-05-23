@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditisaxena671)](https://git.io/streak-stats)
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
+<img height="150" width="150" src="WEBP/left.webp">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditisaxena671)](https://git.io/streak-stats)
+<img height="150" width="150" src="WEBP/right.webp">
+  </p>
+<p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditisaxena671&show_icons=true&locale=en&layout=compact" alt="aditisaxena671" />
-  <img height="150" width="150" src="WEBP/right.webp">
+  
 </p>
 
 
